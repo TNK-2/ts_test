@@ -3,5 +3,5 @@
 実行コマンド
 
 ```
-npx ts-node first.t
+npx ts-node index.ts
 ```
