@@ -1,0 +1,15 @@
+{
+  "workbench.activityBar.visible": false,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "python.jediEnabled": false,
+  //"editor.fontSize": 11.6,
+  //"editor.lineHeight": 14.3,
+  "editor.fontSize": 12,
+  "editor.lineHeight": 15,
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "eslint.autoFixOnSave": true,
+  "files.autoSave": "off"
+}
